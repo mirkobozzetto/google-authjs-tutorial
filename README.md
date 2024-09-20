@@ -8,7 +8,7 @@ Click on
 
 ![alt text](image.png)
 
-After, you need to create to create a new porject
+After, you need to create to create a new project
 
 ![alt text](image-1.png)
 
